@@ -1,7 +1,9 @@
 import { Box, Flex } from '@chakra-ui/react';
 import { Banner } from '../components/Banner';
+import { Property } from '../components/Property';
+import { fetchApi } from '../utils/fetch-api';
 
-export default function Home() {
+export default function Home({ propsForRent, propsForSale }) {
     return (
         <div>
             <h1>Home Page</h1>
@@ -18,7 +20,9 @@ export default function Home() {
                 />
 
                 <Flex wrap>
-                    {/* fetch the rental properties and map over them... */}
+                    {propsForRent.map((prop) => (
+                        <Property key={prop.id} property={prop} />
+                    ))}
                 </Flex>
 
                 <Banner
@@ -33,9 +37,33 @@ export default function Home() {
                 />
 
                 <Flex wrap>
-                    {/* fetch the sale properties and map over them... */}
+                    {propsForSale.map((prop) => (
+                        <Property key={prop.id} property={prop} />
+                    ))}
                 </Flex>
             </Box>
         </div>
     );
+}
+
+export async function getStaticProps() {
+    const propsForSale = await fetchApi('/properties/list', {
+        purpose: 'for-sale',
+        locationExternalIDs: '5002',
+        lang: 'en',
+    });
+
+    const propsForRent = await fetchApi('/properties/list', {
+        purpose: 'for-rent',
+        locationExternalIDs: '5002',
+        lang: 'en',
+    });
+
+    return {
+        props: {
+            propsForSale: propsForSale?.hits,
+            propsForRent: propsForRent?.hits,
+        },
+        revalidate: 600, // In seconds
+    };
 }

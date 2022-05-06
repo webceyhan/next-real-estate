@@ -5,8 +5,7 @@ import { fetchApi } from '../utils/fetch-api';
 
 export default function Home({ propsForRent, propsForSale }) {
     return (
-        <div>
-            <h1>Home Page</h1>
+        <>
             <Box>
                 <Banner
                     purpose="RENT A HOME"
@@ -42,7 +41,7 @@ export default function Home({ propsForRent, propsForSale }) {
                     ))}
                 </Flex>
             </Box>
-        </div>
+        </>
     );
 }
 

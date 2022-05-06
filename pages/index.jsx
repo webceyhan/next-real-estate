@@ -61,9 +61,9 @@ export async function getStaticProps() {
 
     return {
         props: {
-            propsForSale: propsForSale?.hits,
-            propsForRent: propsForRent?.hits,
+            propsForSale: propsForSale?.hits.slice(0,5),
+            propsForRent: propsForRent?.hits.slice(0,5)
         },
-        revalidate: 600, // In seconds
+        // revalidate: 600, // In seconds
     };
 }

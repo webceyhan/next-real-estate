@@ -1,0 +1,435 @@
+{
+    "id": 3186721,
+    "objectID": 3186721,
+    "ownerID": 1459893,
+    "userExternalID": "1459893",
+    "sourceID": 1,
+    "state": "active",
+    "geography": {
+        "lat": 25.227242,
+        "lng": 55.342072
+    },
+    "purpose": "for-sale",
+    "price": 6499990,
+    "product": "superhot",
+    "productLabel": "default",
+    "rentFrequency": null,
+    "referenceNumber": "B-AS-68312",
+    "permitNumber": "7117775599",
+    "title": "Vacant I Fully Furnished I Luxury Living",
+    "title_l1": "شقة في بالازو فيرساتشي قرية التراث 3 غرف 6499990 درهم - 5905977",
+    "description": "The Palazzo Versace Resort is the central land mark project of Culture Village which, when complete in early 2015, will feature 215 hotel rooms and 169 condominiums. Developed on a 130,000 sq. meter land parcel by Enshaa, this luxury project has 1 - 6 bedroom condominiums with access to the hotel's services. \n  Central A/C\n  Covered Parking\n  Security\nThe Palazzo Versace Resort is the central land mark project of Culture Village which, when complete in early 2015, will feature 215 hotel rooms and 169 condominiums. Developed on a 130,000 sq. meter land parcel by Enshaa, this luxury project has 1 - 6 bedroom condominiums with access to the hotel's services. \nThe Palazzo Versace Resort is the central land mark project of Culture Village which, when complete in early 2015, will feature 215 hotel rooms and 169 condominiums. Developed on a 130,000 sq. meter land parcel by Enshaa, this luxury project has 1 - 6 bedroom condominiums with access to the hotel's services. \n\n¶ Property Features: \n* Built In Wardrobes* Balcony* Elevator* High floor* Fitted* Furnished* Investment Property* Gated Community* Air Conditioning* Fitness Centre\n\n♣\n\nfam Properties \n Contact Us - [redacted phone number] \n Toll free: 800fam[redacted phone number] \n Email: sarah. [redacted email address]\n Visit our website: famproperties. com \n Office Registration no: 1858 \n RERA Broker ID: 8976 \n Permit No:[redacted phone number]",
+    "description_l1": "The Palazzo Versace Resort is the central land mark project of Culture Village which, when complete in early 2015, will feature 215 hotel rooms and 169 condominiums. Developed on a 130,000 sq. meter land parcel by Enshaa, this luxury project has 1 - 6 bedroom condominiums with access to the hotel's services. \n  Central A/C\n  Covered Parking\n  Security\nThe Palazzo Versace Resort is the central land mark project of Culture Village which, when complete in early 2015, will feature 215 hotel rooms and 169 condominiums. Developed on a 130,000 sq. meter land parcel by Enshaa, this luxury project has 1 - 6 bedroom condominiums with access to the hotel's services. \nThe Palazzo Versace Resort is the central land mark project of Culture Village which, when complete in early 2015, will feature 215 hotel rooms and 169 condominiums. Developed on a 130,000 sq. meter land parcel by Enshaa, this luxury project has 1 - 6 bedroom condominiums with access to the hotel's services. \n\n¶ Property Features: \n* Built In Wardrobes* Balcony* Elevator* High floor* Fitted* Furnished* Investment Property* Gated Community* Air Conditioning* Fitness Centre\n\n♣\n\nfam Properties \n Contact Us - [redacted phone number] \n Toll free: 800fam[redacted phone number] \n Email: sarah. [redacted email address]\n Visit our website: famproperties. com \n Office Registration no: 1858 \n RERA Broker ID: 8976 \n Permit No:[redacted phone number]",
+    "externalID": "5905977",
+    "slug": "vacant-i-fully-furnished-i-luxury-living-5905977",
+    "slug_l1": "vacant-i-fully-furnished-i-luxury-living-5905977",
+    "location": [
+        {
+            "id": 1,
+            "level": 0,
+            "externalID": "5001",
+            "name": "UAE",
+            "name_l1": "الإمارات",
+            "slug": "/uae",
+            "slug_l1": "/uae"
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "externalID": "5002",
+            "name": "Dubai",
+            "name_l1": "دبي",
+            "slug": "/dubai",
+            "slug_l1": "/dubai"
+        },
+        {
+            "id": 190,
+            "level": 2,
+            "externalID": "5382",
+            "name": "Culture Village",
+            "name_l1": "قرية التراث",
+            "slug": "/dubai/culture-village",
+            "slug_l1": "/dubai/culture-village"
+        },
+        {
+            "id": 1319,
+            "level": 3,
+            "externalID": "7183",
+            "name": "Palazzo Versace",
+            "name_l1": "بالازو فيرساتشي",
+            "slug": "/dubai/culture-village/palazzo-versace",
+            "slug_l1": "/dubai/culture-village/palazzo-versace"
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "level": 0,
+            "externalID": "1",
+            "name": "Residential",
+            "name_l1": "سكني",
+            "slug": "residential",
+            "slug_l1": "residential",
+            "nameSingular": "Residential",
+            "nameSingular_l1": "سكني"
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "externalID": "4",
+            "name": "Apartments",
+            "name_l1": "شقق",
+            "slug": "apartments",
+            "slug_l1": "apartments",
+            "nameSingular": "Apartment",
+            "nameSingular_l1": "شقة"
+        }
+    ],
+    "createdAt": 1650541866,
+    "approvedAt": 1650541866,
+    "updatedAt": 1651812799,
+    "touchedAt": 1651813390.881477,
+    "reactivatedAt": 1650541866,
+    "rooms": 3,
+    "baths": 3,
+    "area": 354.98251584,
+    "score": 100,
+    "score_l1": 62,
+    "coverPhoto": {
+        "id": 206015180,
+        "externalID": "122120194",
+        "title": null,
+        "orderIndex": 0,
+        "nimaScore": 6.000084185824878,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015180/a5c27b4ba4d1403691c31b59699a4358",
+        "main": true
+    },
+    "photoCount": 23,
+    "videoCount": 0,
+    "panoramaCount": 0,
+    "photos": [
+        {
+            "id": 206015180,
+            "externalID": "122120194",
+            "title": null,
+            "orderIndex": 0,
+            "nimaScore": 6.000084185824878,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015180/a5c27b4ba4d1403691c31b59699a4358"
+        },
+        {
+            "id": 206015181,
+            "externalID": "122120206",
+            "title": null,
+            "orderIndex": 1,
+            "nimaScore": 5.999684820110561,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015181/7b5bb50ddfc64d03a6b35122b1064e31"
+        },
+        {
+            "id": 206015182,
+            "externalID": "122120219",
+            "title": null,
+            "orderIndex": 2,
+            "nimaScore": 9.465027959821782,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015182/1824996b55914eea968a92963f019453"
+        },
+        {
+            "id": 206015183,
+            "externalID": "122120238",
+            "title": null,
+            "orderIndex": 3,
+            "nimaScore": 9.902289088336245,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015183/67419fed20b94f6b9f7d8498a27970f5"
+        },
+        {
+            "id": 206015184,
+            "externalID": "122120265",
+            "title": null,
+            "orderIndex": 4,
+            "nimaScore": 9.436407577245063,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015184/b5c78e03c5d9440980cd9f061690d4f6"
+        },
+        {
+            "id": 206015185,
+            "externalID": "122120283",
+            "title": null,
+            "orderIndex": 5,
+            "nimaScore": 9.83006437500842,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015185/c61532a69f404f0e94c0a0917d33261f"
+        },
+        {
+            "id": 206015186,
+            "externalID": "122120309",
+            "title": null,
+            "orderIndex": 6,
+            "nimaScore": 8.99782555793487,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015186/d8a91759ea0944abbcc9d02bfcaa7e28"
+        },
+        {
+            "id": 206015187,
+            "externalID": "122120324",
+            "title": null,
+            "orderIndex": 7,
+            "nimaScore": 9.108866875909825,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015187/594a5e1d2b724c47ac2da75357291b8d"
+        },
+        {
+            "id": 206015188,
+            "externalID": "122120336",
+            "title": null,
+            "orderIndex": 8,
+            "nimaScore": 8.031272318462126,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015188/b9f0fb14bb974ae99c017e9360960e48"
+        },
+        {
+            "id": 206015189,
+            "externalID": "122120349",
+            "title": null,
+            "orderIndex": 9,
+            "nimaScore": 8.570354178580601,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015189/871a0f6690874f11b54829a6dd67746f"
+        },
+        {
+            "id": 206015190,
+            "externalID": "122120360",
+            "title": null,
+            "orderIndex": 10,
+            "nimaScore": 9.799059383837033,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015190/4b17ab7d16bb487b906d3314ac956064"
+        },
+        {
+            "id": 206015191,
+            "externalID": "122120366",
+            "title": null,
+            "orderIndex": 11,
+            "nimaScore": 9.627688804078076,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015191/8efb74e83f9d4a0891445bd123f4c61e"
+        },
+        {
+            "id": 206015193,
+            "externalID": "122120374",
+            "title": null,
+            "orderIndex": 12,
+            "nimaScore": 9.729641112315072,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015193/1b3dae743bb84b28bb7907029e6571f0"
+        },
+        {
+            "id": 206015195,
+            "externalID": "122120384",
+            "title": null,
+            "orderIndex": 13,
+            "nimaScore": 7.953713807059103,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015195/c0fc21bb0c6a4c38b7346db690c2dba3"
+        },
+        {
+            "id": 206015197,
+            "externalID": "122120248",
+            "title": null,
+            "orderIndex": 14,
+            "nimaScore": 8.341862861502705,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015197/99f87d66593340889cb94471dbf31248"
+        },
+        {
+            "id": 206015199,
+            "externalID": "122120397",
+            "title": null,
+            "orderIndex": 15,
+            "nimaScore": 9.837945872842965,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015199/bd5b24e06b284cc6aacfc9bfc47269a8"
+        },
+        {
+            "id": 206015201,
+            "externalID": "122120403",
+            "title": null,
+            "orderIndex": 16,
+            "nimaScore": 9.964621056568147,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015201/c9469278944748ed9c83a138daa0bdba"
+        },
+        {
+            "id": 206015203,
+            "externalID": "122120408",
+            "title": null,
+            "orderIndex": 17,
+            "nimaScore": 8.860568907932816,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015203/a98c53d6acbb4a1ab8f0947ac0226aee"
+        },
+        {
+            "id": 206015206,
+            "externalID": "122120413",
+            "title": null,
+            "orderIndex": 18,
+            "nimaScore": 9.853972328213285,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015206/458d018a42be4708a96fe3de74d6031a"
+        },
+        {
+            "id": 206015208,
+            "externalID": "122120422",
+            "title": null,
+            "orderIndex": 19,
+            "nimaScore": 6.000008017289898,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015208/fe2aafe6bda4440ea49895b17d5f0349"
+        },
+        {
+            "id": 206015210,
+            "externalID": "122120423",
+            "title": null,
+            "orderIndex": 20,
+            "nimaScore": 9.130251897751746,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015210/6b9d1c204d0940aeac0eddc1eb4ce435"
+        },
+        {
+            "id": 206015212,
+            "externalID": "122120430",
+            "title": null,
+            "orderIndex": 21,
+            "nimaScore": 9.419950399646268,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015212/dcfe2c5a5f6d4a0eb7c7cf30bfab5b01"
+        },
+        {
+            "id": 206015213,
+            "externalID": "122120434",
+            "title": null,
+            "orderIndex": 22,
+            "nimaScore": 6.018066069254381,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/206015213/987e43c813cd4a6592fe0bc35755eb1d"
+        }
+    ],
+    "floorPlans": [],
+    "videos": [],
+    "panoramas": [],
+    "amenities": [
+        {
+            "externalGroupID": 9,
+            "groupRank": 1,
+            "text": "Features",
+            "text_l1": "مزايا",
+            "amenities": [
+                {
+                    "text": "Furnished",
+                    "text_l1": "مفروشة",
+                    "value": "Yes",
+                    "rank": 1,
+                    "slug": "furnished",
+                    "format": "checkbox",
+                    "externalID": 20
+                },
+                {
+                    "text": "Storage Areas",
+                    "text_l1": "مناطق تخزين",
+                    "value": "Yes",
+                    "rank": 7,
+                    "slug": "storage-areas",
+                    "format": "checkbox",
+                    "externalID": 70
+                }
+            ]
+        },
+        {
+            "externalGroupID": 5,
+            "groupRank": 2,
+            "text": "Building",
+            "text_l1": "البناء",
+            "amenities": [
+                {
+                    "text": "Balcony or Terrace",
+                    "text_l1": "شرفة أو تراس",
+                    "value": "Yes",
+                    "rank": 1,
+                    "slug": "balcony-or-terrace",
+                    "format": "checkbox",
+                    "externalID": 3
+                },
+                {
+                    "text": "Elevators in Building",
+                    "text_l1": "مصاعد",
+                    "value": "",
+                    "rank": 3,
+                    "slug": "elevators-in-building",
+                    "format": "number",
+                    "externalID": 16
+                }
+            ]
+        },
+        {
+            "externalGroupID": 7,
+            "groupRank": 9,
+            "text": "Miscellaneous",
+            "text_l1": "الخدمات العامة",
+            "amenities": [
+                {
+                    "text": "Maids Room",
+                    "text_l1": "غرفة خدم",
+                    "value": "Yes",
+                    "rank": 4,
+                    "slug": "maids-room",
+                    "format": "checkbox",
+                    "externalID": 37
+                }
+            ]
+        }
+    ],
+    "phoneNumber": {
+        "mobile": "+97144544154",
+        "phone": "+97143691700",
+        "whatsapp": "971569551551",
+        "phoneNumbers": [
+            "+97143691700"
+        ],
+        "mobileNumbers": [
+            "+97144544154"
+        ]
+    },
+    "contactName": "Sarah Asma Nfidsa",
+    "agency": {
+        "id": 29583357,
+        "objectID": 29583357,
+        "name": "fäm Properties - Branch 3",
+        "name_l1": "الفرع 3  -فام العقارية",
+        "externalID": "9956",
+        "product": "featured",
+        "productScore": 1,
+        "licenses": [
+            {
+                "number": "1858",
+                "authority": "RERA"
+            },
+            {
+                "number": "613164",
+                "authority": "DED"
+            }
+        ],
+        "logo": {
+            "id": 96047165,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/96047165/da9af64ade7249838e7fd0c5e8e3217f"
+        },
+        "slug": "f--m-properties-branch-3-9956",
+        "slug_l1": "f--m-properties-branch-3-9956",
+        "tier": 1,
+        "roles": [],
+        "active": true,
+        "createdAt": "2020-09-27T03:16:23.674426+00:00",
+        "commercialNumber": null
+    },
+    "active": true,
+    "hasExactGeography": true,
+    "verification": {
+        "status": "verified",
+        "type": "manual",
+        "eligible": true,
+        "comment": null,
+        "updatedAt": 1650623175.052395,
+        "verifiedAt": 1650966295.128274,
+        "visitedAt": null
+    },
+    "isVerified": true,
+    "completionStatus": "completed",
+    "randBoostScore": 769,
+    "randBoostScore_l1": 769,
+    "furnishingStatus": "furnished",
+    "extraFields": {},
+    "type": "property",
+    "cityLevelScore": 1,
+    "indyScore": 492,
+    "indyScore_l1": 492,
+    "hasMatchingFloorPlans": false,
+    "hidePrice": false
+}

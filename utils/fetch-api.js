@@ -1,6 +1,7 @@
 import axios from 'axios';
 import propsForSaleJSON from '../data/properties/list/for-sale.json';
 import propsForRentJSON from '../data/properties/list/for-rent.json';
+import propDetailJSON from '../data/properties/detail/sample.json';
 
 const baseUrl = 'https://bayut.p.rapidapi.com';
 const isDev = process.env.NODE_ENV === 'development';
@@ -27,6 +28,10 @@ export const fetchApi = async (path, params = {}) => {
 
 const fetchDevData = async (path, params) => {
     // const url = `${dataDir}${path}/${params.purpose}.json`;
+
+    if (path === '/properties/detail') {
+        return propDetailJSON;
+    }
 
     if (params.purpose === 'for-sale') {
         return propsForSaleJSON;

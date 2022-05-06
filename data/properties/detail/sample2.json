@@ -1,0 +1,562 @@
+{
+    "id": 3175426,
+    "objectID": 3175426,
+    "ownerID": 1834901,
+    "userExternalID": "1834901",
+    "sourceID": 1,
+    "state": "active",
+    "geography": {
+        "lat": 25.049281,
+        "lng": 55.20538
+    },
+    "purpose": "for-sale",
+    "price": 560000,
+    "product": "superhot",
+    "productLabel": "default",
+    "rentFrequency": null,
+    "referenceNumber": "3328-Ap-S-0361",
+    "permitNumber": "7115410191",
+    "title": "Ready to Move in 1BHK 948 sqft with Balcony, Negotiable",
+    "title_l1": "شقة في ماغنوليا 2 حدائق الإمارات 2 الضاحية 14 قرية جميرا الدائرية 1 غرف 560000 درهم - 5895349",
+    "description": "<b>Bloomfield Estate Brokers</b> is proud to offer you this astonishing and elegantly designed apartment located in the most sought-after residential community in Dubai, Jumeirah Village Circle. \n\nProperty Features. \n\n-1BHK Apartment\n-02 Bathrooms\n-Massive Balcony\n- Steam and Sauna \n-Roof top Garden and BBQ area\n-Built in Wardrobes\n\n<b>PROPERTY DETAILS AND AMENITIES:</b><ul><li>Lawn or Garden</li><li>Gym or Health Club</li><li>Swimming Pool</li><li>Laundry Room</li><li>Balcony or Terrace</li><li>Lobby in Building</li><li>Service Elevators</li><li>Reception/Waiting Room</li><li>Security Staff</li><li>CCTV Security</li><li>Freehold</li><li>24 Hours Concierge</li><li>Broadband Internet</li><li>Satellite/Cable TV</li><li>Intercom</li><li>Centrally Air-Conditioned</li><li>Central Heating</li><li>Waste Disposal</li><li>Maintenance Staff</li><li>Flooring (Tiles)</li></ul><b>\nBloomfield Real Estate</b>, is a culturally diverse brokerage company that brings together a team of multilingual and highly experience &amp; qualified real estate brokers. Bloomfield Real Estate utilizes extensive expertise of the local market and internationalism of real estate. We exercise a client centrode approach that helps us to cater to our clients' individual requirements and demands with perfection and precision.",
+    "description_l1": "<b>Bloomfield Estate Brokers</b> is proud to offer you this astonishing and elegantly designed apartment located in the most sought-after residential community in Dubai, Jumeirah Village Circle. \n\nProperty Features. \n\n-1BHK Apartment\n-02 Bathrooms\n-Massive Balcony\n- Steam and Sauna \n-Roof top Garden and BBQ area\n-Built in Wardrobes\n\n<b>PROPERTY DETAILS AND AMENITIES:</b><ul><li>Lawn or Garden</li><li>Gym or Health Club</li><li>Swimming Pool</li><li>Laundry Room</li><li>Balcony or Terrace</li><li>Lobby in Building</li><li>Service Elevators</li><li>Reception/Waiting Room</li><li>Security Staff</li><li>CCTV Security</li><li>Freehold</li><li>24 Hours Concierge</li><li>Broadband Internet</li><li>Satellite/Cable TV</li><li>Intercom</li><li>Centrally Air-Conditioned</li><li>Central Heating</li><li>Waste Disposal</li><li>Maintenance Staff</li><li>Flooring (Tiles)</li></ul><b>\nBloomfield Real Estate</b>, is a culturally diverse brokerage company that brings together a team of multilingual and highly experience &amp; qualified real estate brokers. Bloomfield Real Estate utilizes extensive expertise of the local market and internationalism of real estate. We exercise a client centrode approach that helps us to cater to our clients' individual requirements and demands with perfection and precision.",
+    "externalID": "5895349",
+    "slug": "ready-to-move-in-1bhk-948-sqft-with-balcony-negotiable-5895349",
+    "slug_l1": "ready-to-move-in-1bhk-948-sqft-with-balcony-negotiable-5895349",
+    "location": [
+        {
+            "id": 1,
+            "level": 0,
+            "externalID": "5001",
+            "name": "UAE",
+            "name_l1": "الإمارات",
+            "slug": "/uae",
+            "slug_l1": "/uae"
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "externalID": "5002",
+            "name": "Dubai",
+            "name_l1": "دبي",
+            "slug": "/dubai",
+            "slug_l1": "/dubai"
+        },
+        {
+            "id": 59,
+            "level": 2,
+            "externalID": "5416",
+            "name": "Jumeirah Village Circle (JVC)",
+            "name_l1": "قرية جميرا الدائرية",
+            "slug": "/dubai/jumeirah-village-circle-jvc",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc"
+        },
+        {
+            "id": 3327,
+            "level": 3,
+            "externalID": "11454",
+            "name": "JVC District 14",
+            "name_l1": "الضاحية 14",
+            "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-14",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc/jvc-district-14"
+        },
+        {
+            "id": 1350,
+            "level": 4,
+            "externalID": "5423",
+            "name": "Emirates Gardens 2",
+            "name_l1": "حدائق الإمارات 2",
+            "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-14/emirates-gardens-2",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc/jvc-district-14/emirates-gardens-2"
+        },
+        {
+            "id": 1461,
+            "level": 5,
+            "externalID": "8803",
+            "name": "Magnolia 2",
+            "name_l1": "ماغنوليا 2",
+            "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-14/emirates-gardens-2/magnolia-2",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc/jvc-district-14/emirates-gardens-2/magnolia-2"
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "level": 0,
+            "externalID": "1",
+            "name": "Residential",
+            "name_l1": "سكني",
+            "slug": "residential",
+            "slug_l1": "residential",
+            "nameSingular": "Residential",
+            "nameSingular_l1": "سكني"
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "externalID": "4",
+            "name": "Apartments",
+            "name_l1": "شقق",
+            "slug": "apartments",
+            "slug_l1": "apartments",
+            "nameSingular": "Apartment",
+            "nameSingular_l1": "شقة"
+        }
+    ],
+    "createdAt": 1650203952,
+    "approvedAt": 1650203952,
+    "updatedAt": 1651631669,
+    "touchedAt": 1651631824.308309,
+    "reactivatedAt": 1650203952,
+    "rooms": 1,
+    "baths": 2,
+    "area": 88.07208192,
+    "score": 100,
+    "score_l1": 62,
+    "coverPhoto": {
+        "id": 204214704,
+        "externalID": "121920033",
+        "title": null,
+        "orderIndex": 0,
+        "nimaScore": 8.90487008713535,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214704/559da88ee1924ec4ab04a2485afade8e",
+        "main": true
+    },
+    "photoCount": 11,
+    "videoCount": 0,
+    "panoramaCount": 0,
+    "photos": [
+        {
+            "id": 204214704,
+            "externalID": "121920033",
+            "title": null,
+            "orderIndex": 0,
+            "nimaScore": 8.90487008713535,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214704/559da88ee1924ec4ab04a2485afade8e"
+        },
+        {
+            "id": 204214341,
+            "externalID": "121920034",
+            "title": null,
+            "orderIndex": 1,
+            "nimaScore": 8.721011232930323,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214341/0bf67cdcf3bb451f9a43f2c0f2f860ed"
+        },
+        {
+            "id": 204214342,
+            "externalID": "121920035",
+            "title": null,
+            "orderIndex": 2,
+            "nimaScore": 8.895985117582313,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214342/aa47eacfbd984c3094782993d0d0c2ad"
+        },
+        {
+            "id": 204214343,
+            "externalID": "121920036",
+            "title": null,
+            "orderIndex": 3,
+            "nimaScore": 8.840323230471768,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214343/5087fa67d9d4459fae836affa2cee028"
+        },
+        {
+            "id": 204214344,
+            "externalID": "121920037",
+            "title": null,
+            "orderIndex": 4,
+            "nimaScore": 8.122462546678435,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214344/88442553a1c943b6a31658fb9b5800fd"
+        },
+        {
+            "id": 204214345,
+            "externalID": "121920038",
+            "title": null,
+            "orderIndex": 5,
+            "nimaScore": 8.771920410210441,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214345/2901b90003eb4ba29bde2219a74a51b0"
+        },
+        {
+            "id": 204214716,
+            "externalID": "121920039",
+            "title": null,
+            "orderIndex": 6,
+            "nimaScore": 7.716128787094931,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214716/26d27e00cf1b4471ac56e09301cc1155"
+        },
+        {
+            "id": 204214347,
+            "externalID": "121920040",
+            "title": null,
+            "orderIndex": 7,
+            "nimaScore": 7.4641272688377285,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214347/ca4bb8d955fa41faa88b90ee6f1679bb"
+        },
+        {
+            "id": 204214720,
+            "externalID": "121920041",
+            "title": null,
+            "orderIndex": 8,
+            "nimaScore": 8.208979154922417,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214720/a91d491412804f26a29505035218c6fc"
+        },
+        {
+            "id": 204214722,
+            "externalID": "121920042",
+            "title": null,
+            "orderIndex": 9,
+            "nimaScore": 6.625515366710706,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214722/2d1ff35c0925457a8af861948e11b5be"
+        },
+        {
+            "id": 204214723,
+            "externalID": "121920043",
+            "title": null,
+            "orderIndex": 10,
+            "nimaScore": 8.587786322159445,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/204214723/50c0403b989d4db48736c83e0b5af997"
+        }
+    ],
+    "floorPlans": [],
+    "videos": [],
+    "panoramas": [],
+    "amenities": [
+        {
+            "externalGroupID": 9,
+            "groupRank": 1,
+            "text": "Features",
+            "text_l1": "مزايا",
+            "amenities": [
+                {
+                    "text": "Electricity Backup",
+                    "text_l1": "نظام كهرباء احتياطي للطوارئ",
+                    "value": "true",
+                    "rank": 2,
+                    "slug": "electricity-backup",
+                    "format": "checkbox",
+                    "externalID": 10
+                },
+                {
+                    "text": "Centrally Air-Conditioned",
+                    "text_l1": "نظام تبريد مركزي",
+                    "value": "true",
+                    "rank": 4,
+                    "slug": "centrally-air-conditioned",
+                    "format": "checkbox",
+                    "externalID": 7
+                },
+                {
+                    "text": "Central Heating",
+                    "text_l1": "تدفئة مركزية",
+                    "value": "true",
+                    "rank": 5,
+                    "slug": "central-heating",
+                    "format": "checkbox",
+                    "externalID": 8
+                },
+                {
+                    "text": "Storage Areas",
+                    "text_l1": "مناطق تخزين",
+                    "value": "true",
+                    "rank": 7,
+                    "slug": "storage-areas",
+                    "format": "checkbox",
+                    "externalID": 70
+                }
+            ]
+        },
+        {
+            "externalGroupID": 5,
+            "groupRank": 2,
+            "text": "Building",
+            "text_l1": "البناء",
+            "amenities": [
+                {
+                    "text": "Balcony or Terrace",
+                    "text_l1": "شرفة أو تراس",
+                    "value": "true",
+                    "rank": 1,
+                    "slug": "balcony-or-terrace",
+                    "format": "checkbox",
+                    "externalID": 3
+                },
+                {
+                    "text": "Lobby in Building",
+                    "text_l1": "ردهة إستقبال",
+                    "value": "true",
+                    "rank": 2,
+                    "slug": "lobby-in-building",
+                    "format": "checkbox",
+                    "externalID": 5
+                },
+                {
+                    "text": "Service Elevators",
+                    "text_l1": "خدمات المصاعد",
+                    "value": "true",
+                    "rank": 4,
+                    "slug": "service-elevators",
+                    "format": "checkbox",
+                    "externalID": 17
+                },
+                {
+                    "text": "Reception/Waiting Room",
+                    "text_l1": "غرفة استقبال /انتظار",
+                    "value": "true",
+                    "rank": 8,
+                    "slug": "receptionwaiting-room",
+                    "format": "checkbox",
+                    "externalID": 41
+                }
+            ]
+        },
+        {
+            "externalGroupID": 3,
+            "groupRank": 3,
+            "text": "Health and Fitness",
+            "text_l1": "الصحة و اللياقة",
+            "amenities": [
+                {
+                    "text": "Gym or Health Club",
+                    "text_l1": "صالة رياضية أو نادي صحي",
+                    "value": "true",
+                    "rank": 3,
+                    "slug": "gym-or-health-club",
+                    "format": "checkbox",
+                    "externalID": 22
+                },
+                {
+                    "text": "Facilities for Disabled",
+                    "text_l1": "تسهيلات لأصحاب الهمم",
+                    "value": "true",
+                    "rank": 5,
+                    "slug": "facilities-for-disabled",
+                    "format": "checkbox",
+                    "externalID": 67
+                },
+                {
+                    "text": "Swimming Pool",
+                    "text_l1": "مسبح",
+                    "value": "true",
+                    "rank": 6,
+                    "slug": "swimming-pool",
+                    "format": "checkbox",
+                    "externalID": 45
+                },
+                {
+                    "text": "Sauna",
+                    "text_l1": "ساونا",
+                    "value": "true",
+                    "rank": 10,
+                    "slug": "sauna",
+                    "format": "checkbox",
+                    "externalID": 42
+                }
+            ]
+        },
+        {
+            "externalGroupID": 2,
+            "groupRank": 4,
+            "text": "Recreation and Family",
+            "text_l1": "الترفيه والأسرة",
+            "amenities": [
+                {
+                    "text": "Day Care Center",
+                    "text_l1": "مركز رعاية أطفال",
+                    "value": "true",
+                    "rank": 2,
+                    "slug": "day-care-center",
+                    "format": "checkbox",
+                    "externalID": 9
+                },
+                {
+                    "text": "Kids Play Area",
+                    "text_l1": "منطقة لعب للأطفال",
+                    "value": "true",
+                    "rank": 3,
+                    "slug": "kids-play-area",
+                    "format": "checkbox",
+                    "externalID": 34
+                },
+                {
+                    "text": "Lawn or Garden",
+                    "text_l1": "حديقة",
+                    "value": "true",
+                    "rank": 5,
+                    "slug": "lawn-or-garden",
+                    "format": "checkbox",
+                    "externalID": 36
+                }
+            ]
+        },
+        {
+            "externalGroupID": 10,
+            "groupRank": 5,
+            "text": "Cleaning and Maintenance",
+            "text_l1": "التنظيف والصيانة",
+            "amenities": [
+                {
+                    "text": "Maintenance Staff",
+                    "text_l1": "خدمات صيانة",
+                    "value": "true",
+                    "rank": 2,
+                    "slug": "maintenance-staff",
+                    "format": "checkbox",
+                    "externalID": 61
+                },
+                {
+                    "text": "Cleaning Services",
+                    "text_l1": "خدمات تنظيف",
+                    "value": "true",
+                    "rank": 3,
+                    "slug": "cleaning-services",
+                    "format": "checkbox",
+                    "externalID": 73
+                }
+            ]
+        },
+        {
+            "externalGroupID": 6,
+            "groupRank": 6,
+            "text": "Business and Security",
+            "text_l1": "الأعمال والأمن والحماية",
+            "amenities": [
+                {
+                    "text": "Security Staff",
+                    "text_l1": "أمن و حماية",
+                    "value": "true",
+                    "rank": 3,
+                    "slug": "security-staff",
+                    "format": "checkbox",
+                    "externalID": 62
+                },
+                {
+                    "text": "CCTV Security",
+                    "text_l1": "نظام كاميرات مراقبة",
+                    "value": "true",
+                    "rank": 4,
+                    "slug": "cctv-security",
+                    "format": "checkbox",
+                    "externalID": 63
+                }
+            ]
+        },
+        {
+            "externalGroupID": 8,
+            "groupRank": 8,
+            "text": "Technology",
+            "text_l1": "الخدمات التقنية",
+            "amenities": [
+                {
+                    "text": "Satellite/Cable TV",
+                    "text_l1": "كابل قنوات تلفزيونية",
+                    "value": "true",
+                    "rank": 2,
+                    "slug": "satellitecable-tv",
+                    "format": "checkbox",
+                    "externalID": 27
+                },
+                {
+                    "text": "Intercom",
+                    "text_l1": "اتصال داخلي",
+                    "value": "true",
+                    "rank": 3,
+                    "slug": "intercom",
+                    "format": "checkbox",
+                    "externalID": 30
+                }
+            ]
+        },
+        {
+            "externalGroupID": 7,
+            "groupRank": 9,
+            "text": "Miscellaneous",
+            "text_l1": "الخدمات العامة",
+            "amenities": [
+                {
+                    "text": "ATM Facility",
+                    "text_l1": "توفر أجهزة السحب الآلي",
+                    "value": "true",
+                    "rank": 1,
+                    "slug": "atm-facility",
+                    "format": "checkbox",
+                    "externalID": 31
+                },
+                {
+                    "text": "Freehold",
+                    "text_l1": "التملك الحر",
+                    "value": "true",
+                    "rank": 23,
+                    "slug": "freehold",
+                    "format": "checkbox",
+                    "externalID": 19
+                }
+            ]
+        }
+    ],
+    "phoneNumber": {
+        "mobile": "+971521110049",
+        "phone": "+97145686927",
+        "proxyMobile": "+971558184058",
+        "phoneNumbers": [
+            "+97145686927"
+        ],
+        "mobileNumbers": [
+            "+971521110049"
+        ]
+    },
+    "contactName": "Mohammad",
+    "agency": {
+        "id": 29631534,
+        "objectID": 29631534,
+        "name": "Bloomfield Real Estate",
+        "name_l1": "بلوم فيلد العقاريه",
+        "externalID": "100103",
+        "product": "premium",
+        "productScore": 2,
+        "licenses": [
+            {
+                "number": "1025101",
+                "authority": "DED"
+            },
+            {
+                "number": "29050",
+                "authority": "RERA"
+            }
+        ],
+        "logo": {
+            "id": 191553163,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/191553163/8ba78ba7704b4bda9cbc4a23d06202fb"
+        },
+        "slug": "bloomfield-real-estate-100103",
+        "slug_l1": "bloomfield-real-estate-100103",
+        "tier": 4,
+        "roles": [],
+        "active": true,
+        "createdAt": "2022-03-02T13:13:29.216212+00:00",
+        "commercialNumber": null
+    },
+    "active": true,
+    "hasExactGeography": true,
+    "verification": {
+        "status": "verified",
+        "type": "manual",
+        "eligible": true,
+        "comment": null,
+        "updatedAt": 1651046362.988969,
+        "verifiedAt": 1651047649.157029,
+        "visitedAt": null
+    },
+    "isVerified": true,
+    "completionStatus": "completed",
+    "randBoostScore": 422,
+    "randBoostScore_l1": 422,
+    "furnishingStatus": "unfurnished",
+    "extraFields": {
+        "dldBuildingNK": "tabu+ejari-316661",
+        "dldPropertySK": "dld|mea|ae|tabu+ejari-316729"
+    },
+    "type": "property",
+    "cityLevelScore": 1,
+    "indyScore": 422,
+    "indyScore_l1": 422,
+    "hasMatchingFloorPlans": false,
+    "hidePrice": false
+}

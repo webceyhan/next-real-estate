@@ -1,14 +1,15 @@
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useState } from 'react';
 import { BsFilter } from 'react-icons/bs';
 import { Box, Flex, Icon, Text } from '@chakra-ui/react';
 
+import { fetchApi } from '../utils/fetch-api';
 import { SearchFilters } from '../components/SearchFilters';
 import { Property } from '../components/Property';
-import Image from 'next/image';
 import NoResultImg from '../assets/no-result.svg';
 
-export default function Search() {
+export default function Search({ properties }) {
     const router = useRouter();
     const [searchFilters, setSearchFilters] = useState(false);
 
@@ -37,12 +38,12 @@ export default function Search() {
             </Text>
 
             <Flex flexWrap="wrap">
-                {[].map((property) => (
+                {properties.map((property) => (
                     <Property key={property.id} property={property} />
                 ))}
             </Flex>
 
-            {[].length === 0 && (
+            {properties.length === 0 && (
                 <Flex
                     justifyContent="center"
                     alignItems="center"
@@ -58,4 +59,37 @@ export default function Search() {
             )}
         </Box>
     );
+}
+
+export async function getServerSideProps({ query }) {
+    // define query params
+    const purpose = query.purpose || 'for-rent';
+    const rentFrequency = query.rentFrequency || 'yearly';
+    const minPrice = query.minPrice || '0';
+    const maxPrice = query.maxPrice || '1000000';
+    const roomsMin = query.roomsMin || '0';
+    const bathsMin = query.bathsMin || '0';
+    const sort = query.sort || 'price-desc';
+    const areaMax = query.areaMax || '35000';
+    const locationExternalIDs = query.locationExternalIDs || '5002';
+    const categoryExternalID = query.categoryExternalID || '4';
+
+    const data = await fetchApi('/properties/list', {
+        locationExternalIDs,
+        categoryExternalID,
+        purpose,
+        bathsMin,
+        roomsMin,
+        rentFrequency,
+        priceMin: minPrice,
+        priceMax: maxPrice,
+        areaMax,
+        sort,
+    });
+
+    return {
+        props: {
+            properties: data?.hits.slice(0, 5),
+        },
+    };
 }

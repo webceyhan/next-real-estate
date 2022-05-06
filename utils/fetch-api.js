@@ -33,11 +33,17 @@ const fetchDevData = async (path, params) => {
         return propDetailJSON;
     }
 
-    if (params.purpose === 'for-sale') {
-        return propsForSaleJSON;
-    }
-    if (params.purpose === 'for-rent') {
-        return propsForRentJSON;
+    if (path === '/properties/list') {
+        const { purpose, hitsPerPage } = params;
+
+        const hits =
+            purpose === 'for-sale'
+                ? propsForSaleJSON.hits // for sale only
+                : propsForRentJSON.hits; // for rent only
+
+        return {
+            hits: hits.slice(0, +(hitsPerPage ?? 100)),
+        };
     }
 
     return {};

@@ -49,20 +49,21 @@ export async function getStaticProps() {
     const propsForSale = await fetchApi('/properties/list', {
         purpose: 'for-sale',
         locationExternalIDs: '5002',
+        hitsPerPage: '6',
         lang: 'en',
     });
 
     const propsForRent = await fetchApi('/properties/list', {
         purpose: 'for-rent',
         locationExternalIDs: '5002',
+        hitsPerPage: '6',
         lang: 'en',
     });
 
     return {
         props: {
-            propsForSale: propsForSale?.hits.slice(0, 6),
-            propsForRent: propsForRent?.hits.slice(0, 6),
+            propsForSale: propsForSale?.hits,
+            propsForRent: propsForRent?.hits,
         },
-        // revalidate: 600, // In seconds
     };
 }

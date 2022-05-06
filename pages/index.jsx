@@ -19,7 +19,7 @@ export default function Home({ propsForRent, propsForSale }) {
                     imageUrl="https://bayut-production.s3.eu-central-1.amazonaws.com/image/145426814/33973352624c48628e41f2ec460faba4"
                 />
 
-                <Flex wrap>
+                <Flex flexWrap="wrap">
                     {propsForRent.map((prop) => (
                         <Property key={prop.id} property={prop} />
                     ))}
@@ -36,7 +36,7 @@ export default function Home({ propsForRent, propsForSale }) {
                     imageUrl="https://bayut-production.s3.eu-central-1.amazonaws.com/image/110993385/6a070e8e1bae4f7d8c1429bc303d2008"
                 />
 
-                <Flex wrap>
+                <Flex flexWrap="wrap">
                     {propsForSale.map((prop) => (
                         <Property key={prop.id} property={prop} />
                     ))}
@@ -61,8 +61,8 @@ export async function getStaticProps() {
 
     return {
         props: {
-            propsForSale: propsForSale?.hits.slice(0,5),
-            propsForRent: propsForRent?.hits.slice(0,5)
+            propsForSale: propsForSale?.hits.slice(0, 6),
+            propsForRent: propsForRent?.hits.slice(0, 6),
         },
         // revalidate: 600, // In seconds
     };
